@@ -293,7 +293,7 @@ const Home: NextPage = () => {
             />
           </ModalBody>
           <ModalFooter>
-            <Button bg='green.400' onClick={buyTokens}>BUY</Button>
+            <Button bg='blue.400' onClick={buyTokens}>BUY</Button>
           </ModalFooter>
         </ModalContent>
       </Modal>
